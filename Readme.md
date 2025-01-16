@@ -5,24 +5,23 @@
 ###
 
 <div align="center">
-  <!-- LinkedIn Badge with onclick -->
-  <img 
-    src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" 
-    height="25" 
-    alt="linkedin logo" 
-    onclick="openLink('https://www.linkedin.com/in/shreeram-yadav-446431271')" 
-    style="cursor: pointer;"
-  />
+  <!-- LinkedIn Badge with hyperlink -->
+  <a href="https://www.linkedin.com/in/shreeram-yadav-446431271" target="_blank">
+    <img 
+      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" 
+      height="25" 
+      alt="linkedin logo" 
+    />
+  </a>
   
-  <!-- Gmail Badge with onclick -->
-  <img 
-    src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" 
-    height="25" 
-    alt="gmail logo" 
-    onclick="openLink('mailto:yadavshreeram147@gmail.com')" 
-    style="cursor: pointer;"
-  />
-  
+  <!-- Gmail Badge with hyperlink -->
+  <a href="mailto:yadavshreeram147@gmail.com" target="_blank">
+    <img 
+      src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" 
+      height="25" 
+      alt="gmail logo" 
+    />
+  </a>
 </div>
 
 ###
@@ -81,5 +80,3 @@
 </div>
 
 ###
-
-
