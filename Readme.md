@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">📚 About Me:<br><br>🎓 Computer Science student at Ramniranjan Jhunjhunwala College.<br>💻 Strong expertise in full-stack development, specializing in the MERN stack.<br>🌐 Passionate about solving real-world problems with scalable and efficient solutions.<br>🌱 Always eager to explore new technologies across different fields.<br>🚀 Committed to continuous learning and building innovative projects.</p>
+<p align="left">📚 About Me:<br><br>🎓MCA student at Vivekanand Education Society Institute of Technology (VESIT).<br>💻 Strong expertise in full-stack development, specializing in the MERN stack.<br>🌐 Passionate about solving real-world problems with scalable and efficient solutions.<br>🌱 Always eager to explore new technologies across different fields.<br>🚀 Committed to continuous learning and building innovative projects.</p>
 
 ###
 
