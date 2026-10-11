@@ -1,0 +1,25 @@
+{
+  "github_username": "shreeram2011",
+  "handle": "shreeram",
+  "name": "Shreeram Yadav",
+  "tagline": "MCA Student · Full Stack Developer · DSA Enthusiast",
+  "now": { "role": "MCA Student", "where": "@ VESIT" },
+  "creating": "Full-stack web apps with the MERN stack",
+  "stack": ["React", "Node.js", "Express", "MongoDB", "Java", "JavaScript", "Python", "Git"],
+  "highlights": [
+    "Building full-stack projects with the MERN stack",
+    "Practising DSA for product-company interviews",
+    "Learning DevOps, system design and open source"
+  ],
+  "headline": "MCA Student · Full Stack Developer · DSA Enthusiast",
+  "links": {
+    "email": "yadavshreeram147@gmail.com",
+    "instagram": "",
+    "linkedin": "shreeram-yadav-446431271",
+    "x": "",
+    "youtube": "",
+    "website": ""
+  },
+  "heatmap": { "total": 400, "seed": 29, "end_date": "" },
+  "portrait": { "crop": "" }
+}
