@@ -38,59 +38,14 @@
 
 <br>
 
-<sub>Profile template by <a href="https://github.com/GubreleySanskar">@GubreleySanskar</a></sub>
 
 </div>
 
 
----
 
-<div align="center">
-  <img height="150" src="pic_crop_copy1.gif" />
-</div>
 
-###
-
-<div align="center">
-  <!-- LinkedIn Badge with hyperlink -->
-  <a href="https://www.linkedin.com/in/shreeram-yadav-446431271" target="_blank">
-    <img 
-      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" 
-      height="25" 
-      alt="linkedin logo" 
-    />
-  </a>
   
-  <!-- Gmail Badge with hyperlink -->
-  <a href="mailto:yadavshreeram147@gmail.com" target="_blank">
-    <img 
-      src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" 
-      height="25" 
-      alt="gmail logo" 
-    />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=shreeram2011.shreeram2011&" />
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👋 Hi, I'm Shreeram Yadav!</h3>
-
-###
-
-<p align="left">📚 About Me:<br><br>🎓MCA student at Vivekanand Education Society Institute of Technology (VESIT).<br>💻 Strong expertise in full-stack development, specializing in the MERN stack.<br>🌐 Passionate about solving real-world problems with scalable and efficient solutions.<br>🌱 Always eager to explore new technologies across different fields.<br>🚀 Committed to continuous learning and building innovative projects.</p>
-
-###
-
+ 
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
