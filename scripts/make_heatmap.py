@@ -26,6 +26,9 @@ FONT = "-apple-system,'Segoe UI',Helvetica,Arial,sans-serif"
 
 
 def make_data():
+    real = os.path.join(ROOT, "data", "real-days.json")
+    if os.path.exists(real):                       # real GitHub data wins over the generated pattern
+        return [(dt.date.fromisoformat(d), int(c)) for d, c in json.load(open(real))]
     rnd = random.Random(SEED)
     start = END - dt.timedelta(days=END.weekday() + 1 + 52 * 7)   # a Sunday, 53 columns back
     n = (END - start).days + 1

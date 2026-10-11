@@ -3,9 +3,21 @@
   "handle": "shreeram",
   "name": "Shreeram Yadav",
   "tagline": "MCA Student · Full Stack Developer · DSA Enthusiast",
-  "now": { "role": "MCA Student", "where": "@ VESIT" },
+  "now": {
+    "role": "MCA Student",
+    "where": "@ VESIT"
+  },
   "creating": "Full-stack web apps with the MERN stack",
-  "stack": ["React", "Node.js", "Express", "MongoDB", "Java", "JavaScript", "Python", "Git"],
+  "stack": [
+    "React",
+    "Node.js",
+    "Express",
+    "MongoDB",
+    "Java",
+    "JavaScript",
+    "Python",
+    "Git"
+  ],
   "highlights": [
     "Building full-stack projects with the MERN stack",
     "Practising DSA for product-company interviews",
@@ -20,6 +32,12 @@
     "youtube": "",
     "website": ""
   },
-  "heatmap": { "total": 400, "seed": 29, "end_date": "" },
-  "portrait": { "crop": "" }
+  "heatmap": {
+    "total": 178,
+    "seed": 29,
+    "end_date": "2026-10-11"
+  },
+  "portrait": {
+    "crop": ""
+  }
 }
